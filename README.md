@@ -1,2 +1,2 @@
-# Atividades-de- Lógica de Programação
-Aqui será adicionado as atividades de programação
+# Atividades-de-Lógica de Programação
+Aqui serão adicionado as atividades de programação
