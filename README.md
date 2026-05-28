@@ -1,2 +1,2 @@
 # Atividades-de-Programação
-Aqui sera adicionado as atividades de programação
+Aqui será adicionado as atividades de programação
